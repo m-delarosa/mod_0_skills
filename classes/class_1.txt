@@ -1,0 +1,13 @@
+Class: Server
+
+Attributes:
+hairColor (string)
+eyeColor (string)
+height (integer)
+weight (integer)
+
+Methods:
+changeHairColor (modifies hairColor attribute to new string)
+changeEyeColor (modifies eyeColor attribute to new string)
+addWeight (Modifies weight attribute, add 10)
+reduceHeight (Modifies height attribute, reduces integer by 6)
