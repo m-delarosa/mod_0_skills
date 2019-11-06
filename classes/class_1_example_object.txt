@@ -1,0 +1,13 @@
+Object: Sarah
+
+Attributes
+hairColor: "Black"
+eyeColor: "Blue"
+height: 70
+weight: 100
+
+Methods
+changeHairColor: hairColor = "Blonde"
+changeEyeColor: eyeColor = "Brown"
+addWeight: 100 + 10 = 110
+reduceHeight: 70 - 6 = 64
