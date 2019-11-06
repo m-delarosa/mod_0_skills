@@ -1,0 +1,14 @@
+Object: Pastry
+
+Attributes
+temp: 0
+ovenOn: false
+totalRacks: 4
+occupiedRacks: 1
+
+Methods:
+setTemp: temp = 250
+turnOn: ovenOn = true
+calculateOpenRacks: 4 - 1 = 3
+clearRacks: occupiedRacks = 0
+turnOff: ovenOn = false
