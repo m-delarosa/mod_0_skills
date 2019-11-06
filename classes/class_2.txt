@@ -1,0 +1,14 @@
+Class: Oven
+
+Attributes:
+temp (integer)
+ovenOn (boolean)
+totalRacks (integer)
+occupiedRacks (integer)
+
+Methods:
+setTemp (modifies temp attribute to new integer)
+turnOn (modifies ovenOn attribute to true)
+calculateOpenRacks (Uses totalRacks and occupied Racks to determine how many racks are free)
+clearRacks (Modifies occupiedRacks attribute to 0)
+turnOff (modifies ovenOn attribute to false)
